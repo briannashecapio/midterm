@@ -37,7 +37,7 @@ h1 {
 
 .news {
     display: inline-block;
-    text-decoration: uppercase;
+    text-transform: uppercase;
     font-size: .85rem;
     border-bottom: 2px solid #ff3530;
 }
